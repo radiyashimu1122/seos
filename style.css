@@ -1,0 +1,43 @@
+body{
+   
+    background-color:whitesmoke ;
+}
+/* button 1 */
+
+ button:hover{ 
+    background-color: #FF0066; 
+ }
+.contact{
+    border-radius: 3px;
+    background-color: #4043bc;
+    color: white;
+    padding: 10px;
+    width: 180px;
+    border: none;
+}
+/* button 1 end */
+/* button 2 */
+.us{
+    border-radius: 3px;
+    background-color:#ff5c97;   
+    color: white;
+    padding: 10px;
+    width: 180px;
+    border: none
+
+}
+us:hover{
+    background-color: #FF0066;
+}
+/* button 2 end */
+/* business  */
+.business{
+    text-align: center;
+}
+
+
+p:hover{
+    color: #7b40c0;
+}
+
+  
