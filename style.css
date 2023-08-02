@@ -55,3 +55,6 @@ p:hover{
 h3:hover{
     color: #FF0066;
 }
+.started:hover{
+    color: #7b40c0;
+}
