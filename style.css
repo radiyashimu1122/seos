@@ -44,6 +44,14 @@ p:hover{
     padding-left: 40px;
     padding-top: 40px;
 } 
+/* choose */
 .choose{
     gap: 2px;
+}
+.card{
+    border: none;
+    padding: 40px;
+}
+.visit{
+    border-radius: 20px;
 }
